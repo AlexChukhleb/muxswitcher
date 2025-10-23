@@ -1,0 +1,7 @@
+### ping
+POST http://localhost:8087/ping HTTP/1.1
+
+
+### switch
+POST http://localhost:8087/new HTTP/1.1
+
